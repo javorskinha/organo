@@ -12,4 +12,6 @@
 
 <img src='./public/organoCard.png' alt ='exemplo de card do colaborador'>
 
+<a>https://organo-eight-rouge.vercel.app/</a>
+
 <p>Cada time é caracterizado por 2 cores e terá uma sessão individual, somente os times que possuem colaboradores cadastrados vão estar visíveis ao scrolar a página. Para testar as funcionalidades da aplicação, basta realizar os cadastros que desejar preenchendo o formulário!</p>
